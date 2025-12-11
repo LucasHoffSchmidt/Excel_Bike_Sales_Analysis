@@ -1,4 +1,4 @@
-# Excel Bike Sales Project
+# Excel Bike Sales Analysis
 In this project we used Excel to analyse bike sales data, to determine the customers most likely to buy a bike. 
 
 ## Quick Links
