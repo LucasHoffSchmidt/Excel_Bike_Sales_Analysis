@@ -1,5 +1,5 @@
 # Excel Bike Sales Analysis
-In this project we used Excel to analyse bike sales data, to determine the customers most likely to buy a bike. 
+In this project we used Excel to analyse global bike sales data, to determine the customers most likely to buy a bike. 
 
 ## Quick Links
 - Bike buyers dataset: [Bike Buyers Dataset](bike_buyers_dataset.xlsx)
